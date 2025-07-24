@@ -4,7 +4,7 @@ from discord.ui import View, Button
 import os
 
 # ========== إعداد التوكن من متغير البيئة ==========
-TOKEN = os.getenv("TOKEN")
+TOKEN = "MTM5NzIyMjM4MDMyMTExMjEzNA.GxPB6t.gsu3q37Nuoaic6c5ZdFx1PZqJ_q2JajCIGLk-k"
 TARGET_CHANNEL_ID = 1396550419437719602  # ID قناة استقبال الوظائف
 PING_CHANNEL_ID = 1396550419437719602    # ID القناة اللي هيبعت فيها Ping كل 5 دقائق
 
